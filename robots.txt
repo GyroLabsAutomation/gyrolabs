@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# After publishing, add your sitemap URL here, for example:
+# Sitemap: https://yourname.github.io/gyro-labs/sitemap.xml
